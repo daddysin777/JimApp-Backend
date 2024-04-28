@@ -1,8 +1,3 @@
 # Readme 
 
-
-> some 
-
-```python
-def some():
-   print("Hello")
+Backend for JimApp
